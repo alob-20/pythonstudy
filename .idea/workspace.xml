@@ -16,6 +16,7 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="UPDATE_TYPE" value="REBASE" />
   </component>
   <component name="ProjectId" id="1aeFYRkjcJN8wfyGqvbFNlZLNa8" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -101,5 +102,9 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state width="1345" height="554" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1587091516249" />
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1587097077387">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="492" y="282" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.0.1366.728@0.0.1366.728" timestamp="1587097077387" />
   </component>
 </project>
